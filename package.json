@@ -2,7 +2,7 @@
     "name": "parcel-project-template",
     "version": "2.0.0",
     "description": "",
-    "homepage": "https://github.com/YaroslavKopylov/js-hw10",
+    "homepage": "https://github.com/YaroslavKopylov.github.io/js-hw10",
     "scripts": {
         "start": "parcel src/*.html",
         "build": "parcel build src/*.html --public-url /js-hw10/"
